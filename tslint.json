@@ -1,0 +1,19 @@
+{
+    "rulesDirectory": "node_modules/tslint-eslint-rules/dist/rules",
+    "rules": {
+      "array-bracket-spacing": [2, "always"],
+      "brace-style": [2, "1tbs"],
+      "curly": true,
+      "triple-equals": [true, true],
+      "max-line-length": [true, 180],
+      "indent": [2],
+      "no-trailing-whitespace": true,
+      "no-use-before-declare": true, 
+      "object-curly-spacing": [2, "always"],
+      "quotemark": [true, "single", "avoid-escape"],
+      "semicolon": [true, "always"],
+      "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore", "allow-pascal-case"],
+      "whitespace": [true, "check-branch", "check-operator", "check-typecast", "check-module", "check-separator", "check-type"],
+      "one-line": [true, "check-catch", "check-finally", "check-else", "check-open-brace"]
+    }
+  }
