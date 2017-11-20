@@ -21,16 +21,13 @@
     "preserveConstEnums": true,
     "suppressImplicitAnyIndexErrors": true,
     "typeRoots": [
-        "./src/custom-typings",
         "./node_modules/@types",
         "./node_modules"
-    ],
-    "types": [
-      "node"
     ]
     },
     "include": [
-        "src/**/*"
+        "src/**/*",
+        "custom_types/**/*.d.ts"
     ],
     "exclude": [
         "node_modules",
