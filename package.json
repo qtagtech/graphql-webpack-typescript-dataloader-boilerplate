@@ -54,7 +54,7 @@
     "repl.history": "^0.1.4",
     "rimraf": "^2.6.2",
     "ts-node": "^7.0.0",
-    "typedoc": "^0.9.0",
+    "typedoc": "^0.11.1",
     "typedoc-webpack-plugin": "^1.1.4",
     "webpack": "^4.16.5",
     "webpack-merge": "^4.1.1"
