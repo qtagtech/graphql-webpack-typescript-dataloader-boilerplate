@@ -41,7 +41,7 @@
     "eslint-plugin-import": "^2.8.0",
     "husky": "^0.14.3",
     "jest": "23.4.2",
-    "jest-cli": "21.2.1",
+    "jest-cli": "23.4.2",
     "js.clone": "0.0.3",
     "json-loader": "^0.5.7",
     "lint-staged": "^7.2.0",
