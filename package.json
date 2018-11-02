@@ -26,7 +26,7 @@
     "@types/bcryptjs": "^2.4.1",
     "@types/graphql": "^0.11.6",
     "@types/graphql-relay": "^0.4.3",
-    "@types/jsonwebtoken": "^7.2.3",
+    "@types/jsonwebtoken": "^8.3.0",
     "@types/kcors": "^2.2.2",
     "@types/koa": "^2.0.40",
     "@types/koa-bodyparser": "^3.0.26",
