@@ -33,7 +33,7 @@
     "@types/koa-logger": "^2.0.3",
     "@types/koa-router": "^7.0.25",
     "@types/mongoose": "^4.7.27",
-    "@types/node": "^10.12.9",
+    "@types/node": "^10.12.10",
     "awesome-typescript-loader": "^3.3.0",
     "copy-webpack-plugin": "^4.2.0",
     "eslint": "^4.9.0",
