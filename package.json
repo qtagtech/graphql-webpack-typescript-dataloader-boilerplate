@@ -36,7 +36,7 @@
     "@types/node": "^8.0.53",
     "awesome-typescript-loader": "^3.3.0",
     "copy-webpack-plugin": "^4.2.0",
-    "eslint": "^5.15.1",
+    "eslint": "^5.15.2",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
     "husky": "^0.14.3",
