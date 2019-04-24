@@ -35,7 +35,7 @@
     "@types/mongoose": "^4.7.27",
     "@types/node": "^8.0.53",
     "awesome-typescript-loader": "^3.3.0",
-    "copy-webpack-plugin": "^5.0.2",
+    "copy-webpack-plugin": "^5.0.3",
     "eslint": "^4.9.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
