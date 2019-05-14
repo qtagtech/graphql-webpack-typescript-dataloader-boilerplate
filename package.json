@@ -32,7 +32,7 @@
     "@types/koa-bodyparser": "^3.0.26",
     "@types/koa-logger": "^2.0.3",
     "@types/koa-router": "^7.0.25",
-    "@types/mongoose": "^5.5.0",
+    "@types/mongoose": "^5.5.1",
     "@types/node": "^8.0.53",
     "awesome-typescript-loader": "^3.3.0",
     "copy-webpack-plugin": "^4.2.0",
